@@ -1,4 +1,4 @@
-package org.corpauration.user;
+package org.acme.user;
 
 import java.util.Set;
 import java.util.UUID;

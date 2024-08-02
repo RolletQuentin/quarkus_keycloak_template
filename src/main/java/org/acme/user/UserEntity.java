@@ -1,4 +1,4 @@
-package org.corpauration.user;
+package org.acme.user;
 
 import io.quarkus.hibernate.reactive.panache.PanacheEntityBase;
 import jakarta.persistence.*;

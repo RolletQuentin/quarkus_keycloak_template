@@ -1,4 +1,4 @@
-package org.corpauration.user;
+package org.acme.user;
 
 import io.quarkus.security.identity.SecurityIdentity;
 import io.smallrye.mutiny.Uni;

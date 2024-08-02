@@ -1,4 +1,4 @@
-package org.corpauration;
+package org.acme;
 
 import io.quarkus.hibernate.reactive.panache.Panache;
 import io.quarkus.logging.Log;
@@ -7,8 +7,8 @@ import io.quarkus.vertx.VertxContextSupport;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Inject;
-import org.corpauration.user.UserEntity;
-import org.corpauration.user.UserRepository;
+import org.acme.user.UserEntity;
+import org.acme.user.UserRepository;
 
 import java.util.Set;
 

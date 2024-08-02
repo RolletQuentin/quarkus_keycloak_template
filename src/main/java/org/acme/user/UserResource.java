@@ -1,4 +1,4 @@
-package org.corpauration.user;
+package org.acme.user;
 
 import io.quarkus.hibernate.reactive.panache.common.WithSession;
 import io.quarkus.security.identity.SecurityIdentity;
