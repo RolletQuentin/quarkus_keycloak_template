@@ -1,4 +1,4 @@
-# ia-event-api
+# Quarkus Keycloak Template
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
